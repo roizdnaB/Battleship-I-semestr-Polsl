@@ -1,3 +1,6 @@
+//Made by Daniel Jambor
+//02.01.2019
+
 #include "pch.h"
 #include "Functions.h"
 #include "Structures.h"
